@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Rock Paper Scissor</string>
+    <string name="scissor">scissor</string>
+    <string name="button">Rock</string>
+    <string name="button2">Scissors</string>
+    <string name="button3">Paper</string>
+    <string name="todo">TODO</string>
+    <string name="todo2">TODO</string>
+    <string name="todo3">TODO</string>
+    <string name="you_chose">You chose</string>
+    <string name="they_chose">They chose</string>
+    <string name="todo4">TODO</string>
+    <string name="todo5">TODO</string>
+    <string name="score">Score: Humans 0 - 0 Computers</string>
+</resources>
